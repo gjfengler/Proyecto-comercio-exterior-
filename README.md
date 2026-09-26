@@ -35,3 +35,4 @@ Proyecto individual de la materia **Comercio Internacional**. Análisis de la ev
 - **2023**: no se encontró un desglose oficial de participación del MERCOSUR para el año completo y quedó marcado como `n/d`.
 - Antes de la entrega final, se recomienda verificar y, de ser necesario, corregir ambos casos con el Sistema de Consulta de Comercio Exterior de Bienes de INDEC (comex.indec.gob.ar).
 - Los archivos originales (Excel y Word) deben guardarse también en el Drive personal del estudiante, conforme a la consigna del trabajo — ese paso, junto con la publicación en Netlify y el push a GitHub, requiere las cuentas propias del estudiante.
+Dejo vínculo para acceder a Drive y poder ver los excel y Word ... https://drive.google.com/drive/folders/1iluXZCMOSATG1jmHES6mSsHs7yKa5Dpw
