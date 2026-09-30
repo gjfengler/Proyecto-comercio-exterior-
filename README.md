@@ -27,12 +27,9 @@ Proyecto individual de la materia **Comercio Internacional**. Análisis de la ev
 
 ## https://gleaming-unicorn-72b814.netlify.app
 
-> Completar con la URL de Netlify una vez desplegado el proyecto.
 
 ## Notas sobre los datos
 
 - **2022**: el valor de comercio con el MERCOSUR es una **estimación** (exportaciones/importaciones totales de Argentina en 2022, dato oficial INDEC, multiplicadas por la participación del bloque reportada para noviembre de ese año). No es el dato oficial exacto del año completo.
 - **2023**: no se encontró un desglose oficial de participación del MERCOSUR para el año completo y quedó marcado como `n/d`.
-- Antes de la entrega final, se recomienda verificar y, de ser necesario, corregir ambos casos con el Sistema de Consulta de Comercio Exterior de Bienes de INDEC (comex.indec.gob.ar).
-- Los archivos originales (Excel y Word) deben guardarse también en el Drive personal del estudiante, conforme a la consigna del trabajo — ese paso, junto con la publicación en Netlify y el push a GitHub, requiere las cuentas propias del estudiante.
 Dejo vínculo para acceder a Drive y poder ver los excel y Word ... https://drive.google.com/drive/folders/1iluXZCMOSATG1jmHES6mSsHs7yKa5Dpw
